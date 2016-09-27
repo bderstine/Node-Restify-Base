@@ -1,3 +1,5 @@
+config/dbConnection.js
+
 # Logs
 logs
 *.log
